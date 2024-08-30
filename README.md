@@ -855,6 +855,14 @@ What is the use of Burp Suite? Burp Suite is an integrated platform/graphical to
 The tool is written in Java and developed by PortSwigger Web Security. The tool has three editions: a Community Edition that can be downloaded free of charge, a Professional Edition and an Enterprise Edition that can be purchased after a trial period. The Community edition has significantly reduced functionality. It intends to provide a comprehensive solution for web application security checks. In addition to basic functionality, such as proxy server, scanner and intruder, the tool also contains more advanced options such as a spider, a repeater, a decoder, a comparer, an extender and a sequencer.
 Web Application Penetration 
 
+Metasploit framework
+
+The metasploit framework, a complete vulnerability and exploit framework, connects through msfconsole and msfVenom to conduct C2 server access, and vast databe of exploits, use in conjuction with tools like Bursuite for vulnerability testing and advanted exploitation creation and payload set ups. 
+
+Havoc C2
+
+A command and control server for your RATS and betworks. Find on guthub for Linux. 
+
 Aircrack-ng
 Aircrack-ng is a network software suite consisting of a detector, packet sniffer, WEP and WPA/WPA2-PSK cracker and analysis tool for 802.11 wireless LANs. It works with any wireless network interface controller whose driver supports raw monitoring mode and can sniff 802.11a, 802.11b and 802.11g traffic. Packages are released for Linux and Windows.[2]
 Aircrack-ng is a fork of the original Aircrack project. It can be found as a preinstalled tool in many security-focused Linux distributions such as Kali Linux or Parrot Security OS,[3] which share common attributes as they are developed under the same project (Debian).[4]
