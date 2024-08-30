@@ -23,7 +23,9 @@ My name is Gilliam
 
 Hardware
 
-Laptop computer with monitor mode wifi chipset built in, with a minimum of 4 gb RAM, running Kali, Parron or Black Arch, avoid Nvidia, Get a Fujuitsu lifebook if possible.
+Laptop Computer 
+
+With monitor mode wifi chipset built in, with a minimum of 4 gb RAM, running Kali, Parron or Black Arch, avoid Nvidia, Get a Fujitsu lifebook if possible.
 
 
 Proxmark
