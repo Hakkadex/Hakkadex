@@ -25,7 +25,7 @@ Hardware
 
 Laptop Computer 
 
-With monitor mode wifi chipset built in, with a minimum of 4 gb RAM, running Kali, Parron or Black Arch, avoid Nvidia, Get a Fujitsu lifebook if possible.
+With monitor mode wifi chipset built in, with a minimum of 4 gb RAM, running Kali, Parrot or Black Arch, avoid Nvidia, Get a Fujitsu lifebook if possible.
 
 
 Proxmark
