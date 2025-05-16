@@ -53,6 +53,8 @@
   </blockquote>
 
   <footer>
+
+
     ✦ Living on the edge between shadow and chaos ✦
   </footer>
 </body>
