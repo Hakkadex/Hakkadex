@@ -1,3 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>2hands — Revy & Koko Vibes</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+  body {
+    background: #1a1a1a;
+    color: #e0e0e0;
+    font-family: 'Share Tech Mono', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 2rem;
+    flex-direction: column;
+    text-align: center;
+    user-select: none;
+  }
+  h1 {
+    font-size: 3rem;
+    color: #ff3c3c;
+    margin-bottom: 0.2em;
+    text-shadow: 0 0 5px #ff3c3c;
+  }
+  hr {
+    border: none;
+    border-top: 2px solid #444;
+    width: 60%;
+    margin: 1.5em auto;
+  }
+  blockquote {
+    font-style: italic;
+    color: #a0a0a0;
+    margin: 1em auto;
+    max-width: 600px;
+    position: relative;
+    padding-left: 2.5em;
+    text-align: left;
+  }
+  blockquote:before {
+    content: "“";
+    font-size: 4rem;
+    color: #ff5555;
+    position: absolute;
+    left: 0;
+    top: -0.5rem;
+    font-family: serif;
+  }
+  cite {
+    display: block;
+    margin-top: 0.5em;
+    font-weight: bold;
+    color: #ff3c3c;
+    text-align: right;
+    font-size: 1rem;
+  }
+  footer {
+    margin-top: 3rem;
+    font-size: 0.85rem;
+    color: #777;
+  }
+  .glitch {
+    color: #ff3c3c;
+    font-weight: 900;
+    font-size: 4rem;
+    position: relative;
+    animation: glitch 2s infinite;
+  }
+  @keyframes glitch {
+    0% {
+      text-shadow: 2px 0 red, -2px 0 cyan;
+    }
+    20% {
+      text-shadow: -2px 0 red, 2px 0 cyan;
+    }
+    40% {
+      text-shadow: 2px 2px red, -2px -2px cyan;
+    }
+    60% {
+      text-shadow: -2px -2px red, 2px 2px cyan;
+    }
+    80% {
+      text-shadow: 2px 0 red, -2px 0 cyan;
+    }
+    100% {
+      text-shadow: none;
+    }
+  }
+</style>
+</head>
+<body>
+  <h1 class="glitch">2hands</h1>
+  <hr />
+
+  <blockquote>
+    “The world’s only difference between a hero and a villain is who’s telling the story.”  
+    <cite>— Revy, Black Lagoon</cite>
+  </blockquote>
+
+  <blockquote>
+    “You have no idea how deep the abyss goes.”  
+    <cite>— Koko Hekmatyar, Jormungand</cite>
+  </blockquote>
+
+  <blockquote>
+    “I’m just a gun for hire, nothing more, nothing less.”  
+    <cite>— Revy, Black Lagoon</cite>
+  </blockquote>
+
+  <blockquote>
+    “The only thing that matters is the mission, no matter the cost.”  
+    <cite>— Koko Hekmatyar, Jormungand</cite>
+  </blockquote>
+
+  <blockquote>
+    “Sometimes you gotta break the rules to survive.”  
+    <cite>— Revy, Black Lagoon</cite>
+  </blockquote>
+
+  <blockquote>
+    “Peace is a lie. There is only passion.”  
+    <cite>— Koko Hekmatyar, Jormungand</cite>
+  </blockquote>
+
+  <blockquote>
+    “If you wanna live, learn how to kill.”  
+    <cite>— Revy, Black Lagoon</cite>
+  </blockquote>
+
+  <blockquote>
+    “War is the only way to get people to listen.”  
+    <cite>— Koko Hekmatyar, Jormungand</cite>
+  </blockquote>
+
+  <blockquote>
+    “No mercy, no regrets.”  
+    <cite>— Revy, Black Lagoon</cite>
+  </blockquote>
+
+  <blockquote>
+    “In this business, trust no one but yourself.”  
+    <cite>— Koko Hekmatyar, Jormungand</cite>
+  </blockquote>
+
+  <footer>
+    ✦ Living on the edge between shadow and chaos ✦
+  </footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @Hakkadex, inside me is a detailed list of everything you need to be a super hacker spy terminator Neo Sanchez. I hacked and stole all of the information inside, because I am the Hakkadex.
   
 
