@@ -1,9 +1,4 @@
 
-    }
-  }
-</style>
-</head>
-<body>
   <h1 class="glitch">2hands</h1>
   <hr />
 
